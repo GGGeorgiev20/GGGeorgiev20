@@ -13,9 +13,11 @@ JavaScript, but I'm not really into Web Development. And at the moment I am also
 
 <details>
   <summary><b>Grade</b></summary>
+  
   ![Grade](https://github-readme-stats.vercel.app/api?username=galingeorgiev322&show_icons=true&theme=radical&count_private=true)
 </details>
 <details>
   <summary><b>Languages</b></summary>
+  
   ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galingeorgiev322&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
