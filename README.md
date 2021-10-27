@@ -1,16 +1,28 @@
 ## Hey 🙃, I'm Galin Georgiev!
+<hr>
+<img align="right" height="300" width="450" alt="funny joke" src="https://img.devrant.com/devrant/rant/r_235815_f6MZA.jpg" />
 
-I'm Galin Georgiev and I am a student in @codingburgas. My main hobbies right now are making games and getting better at coding languages. I am mainly learning C# at the moment,
-so I can make more games and participate in more game jams. I also like ruining my sleep schedule for game jams and then struggling to fix it. Except for C#, I also like C++ and a bit
-JavaScript, but I'm not really into Web Development. And at the moment I am also learning SDL 2.
+### Personal Stuff
+
+- Studying in @codingburgas.
+- Learning C++, C# and SDL 2.
 
 ### Hobbies
 
-- Learning Unity, C#, C++. and also SDL 2.
+- Learning new things and expanding my skills.
 - Participating in Game Jams and Hackathons.
+- Making small games.
+- Playing games.
+
+### Languages and Tools:
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
 ### My GitHub:
-
+<hr>
 <details>
   <summary><b>Grade</b></summary>
   
