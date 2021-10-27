@@ -1,11 +1,17 @@
-## Hey 🙃, I'm Galin Georgiev!
-<hr>
+# Hey 🙃, I'm Galin Georgiev!
+
 <img align="right" height="300" width="450" alt="funny joke" src="https://img.devrant.com/devrant/rant/r_235815_f6MZA.jpg" />
 
-### Personal Stuff
+<hr>
 
-- Studying in @codingburgas.
-- Learning C++, C# and SDL 2.
+## Personal Stuff:
+
+- 🎓 &nbsp;Studying in @codingburgas
+- 👨‍💻 &nbsp;Learning C++, C# and SDL 2
+- All my projects are on [GitHub](https://github.com/GalinGeorgiev322)
+- You can reach me at GGGeorgiev20@codingburgas.bg
+
+<hr>
 
 ### Hobbies
 
@@ -14,12 +20,16 @@
 - Making small games.
 - Playing games.
 
+<hr>
+
 ### Languages and Tools:
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+
+<hr>
 
 ### My GitHub:
 
