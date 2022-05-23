@@ -7,27 +7,28 @@
 ## Personal Stuff:
 
 - 🎓 &nbsp;Studying in @codingburgas
-- 👨‍💻 &nbsp;Learning C++, C# and SDL 2
-- All my projects are on [GitHub](https://github.com/GalinGeorgiev322)
-- You can reach me at GGGeorgiev20@codingburgas.bg
+- 👨‍💻 &nbsp;Learning C++, Python and Rust
+- 🐈‍⬛ &nbsp;All my projects are on [GitHub](https://github.com/GGGeorgiev20?tab=repositories)
+- 📱 &nbsp;You can reach me at GGGeorgiev20@codingburgas.bg or at [LinkedIn](https://www.linkedin.com/in/galin-georgiev-21164623b/)
 
 <hr>
 
 ### Hobbies
 
-- Learning new things and expanding my skills.
-- Participating in Game Jams and Hackathons.
-- Making small games.
-- Playing games.
+- Learning new languages and expanding my skills.
+- Participating in competitions.
+- Making projects with friends.
+- Eating bananas.
 
 <hr>
 
 ### Languages and Tools:
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/e8e2d187-a66b-4d68-bced-ec66e7cc2107" alt="rust" width="40" height="40"/> </a>
+</p>
 
 <hr>
 
@@ -37,9 +38,4 @@
   <summary><b>Grade</b></summary>
   
   ![Grade](https://github-readme-stats.vercel.app/api?username=gggeorgiev20&show_icons=true&theme=radical&count_private=true)
-</details>
-<details>
-  <summary><b>Languages</b></summary>
-  
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gggeorgiev20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
