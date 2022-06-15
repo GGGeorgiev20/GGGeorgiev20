@@ -7,7 +7,7 @@
 ## Personal Stuff:
 
 - 🎓 &nbsp;Studying in @codingburgas
-- 👨‍💻 &nbsp;Learning C++, Python and Rust
+- 👨‍💻 &nbsp;Learning C++, C# and Python
 - 🐈‍⬛ &nbsp;All my projects are on [GitHub](https://github.com/GGGeorgiev20?tab=repositories)
 - 📱 &nbsp;You can reach me at GGGeorgiev20@codingburgas.bg or at [LinkedIn](https://www.linkedin.com/in/galin-georgiev-21164623b/)
 
@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/e8e2d187-a66b-4d68-bced-ec66e7cc2107" alt="rust" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="rust" width="40" height="40"/> </a>
 </p>
 
 <hr>
