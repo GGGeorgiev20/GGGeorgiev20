@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp;Studying in @codingburgas
 - 👨‍💻 &nbsp;Learning C++, C# and Python
-- 🐈‍⬛ &nbsp;All my projects are on [GitHub](https://github.com/GGGeorgiev20?tab=repositories)
+- 🐈‍ &nbsp;All my projects are on [GitHub](https://github.com/GGGeorgiev20?tab=repositories)
 - 📱 &nbsp;You can reach me at GGGeorgiev20@codingburgas.bg or at [LinkedIn](https://www.linkedin.com/in/galin-georgiev-21164623b/)
 
 <hr>
@@ -18,7 +18,7 @@
 - Learning new languages and expanding my skills.
 - Participating in competitions.
 - Making projects with friends.
-- Eating bananas.
+- Enjoying time with my family.
 
 <hr>
 
