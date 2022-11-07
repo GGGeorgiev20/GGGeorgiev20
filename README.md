@@ -25,12 +25,13 @@
 
 <hr>
 
-  <h3>Favourite languages:</h3>
+  <h3>Languages I Know:</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="44"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="44"/> </a>
   <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="44"/> </a>
+  <a href="https://www.java.com/en/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="44"/> </a>
 </p>
 
 <hr>
