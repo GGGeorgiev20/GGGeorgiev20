@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <body>
   <h1>Hey 🖐️, I'm Galin Georgiev</h1>
@@ -47,4 +47,6 @@
   <summary><b>Top Languages</b></summary>
   
   ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gggeorgiev20&layout=compact&theme=dark&count_private=true)
-</details>
+</details> -->
+
+<img src="https://cdn.discordapp.com/attachments/886147102730760202/1121413281744175124/IMG_0587.jpg"/>
