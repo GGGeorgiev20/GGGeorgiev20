@@ -49,4 +49,4 @@
   ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gggeorgiev20&layout=compact&theme=dark&count_private=true)
 </details> -->
 
-<img src="https://cdn.discordapp.com/attachments/886147102730760202/1121413281744175124/IMG_0587.jpg"/>
+<img src="https://cdn.discordapp.com/attachments/1042148351703003328/1148448338484670475/kompot_banner.png"/>
